@@ -8,6 +8,10 @@
 
 - 🤝 I’m looking for help with **no one**
 
+<h3 align="left">Games:</h3>
+<a href="https://www.codewars.com/users/squeakbug" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://leetcode.com/squeakbug/" target="_blank" rel="noreferrer"> <img src="https://assets.leetcode.com/users/leetcode/avatar_1568224780.png" alt="c" width="40" height="40"/> </a> 
+
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
